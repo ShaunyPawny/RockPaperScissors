@@ -1,3 +1,7 @@
 # RockPaperScissors
 Javascript tutorial from Ania Kubow - https://www.youtube.com/c/AniaKub%C3%B3w/featured 
-I added my own styles (i'm no designer) and made the result text green, orange and red (win, draw, lose)
+
+I added some extra styles:
+
+The text for win, lose and draw is now coloured: green, orange and red respectively.
+I also added flexbox for the scores and buttons and used flex-wrap for smaller screen sizes. 
